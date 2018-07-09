@@ -1,0 +1,23 @@
+{
+  "name": "hyanize",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castaneai/hyanize.git"
+  },
+  "author": "castaneai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/castaneai/hyanize/issues"
+  },
+  "homepage": "https://github.com/castaneai/hyanize#readme",
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
